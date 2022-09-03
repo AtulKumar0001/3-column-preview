@@ -1,6 +1,15 @@
 body{
     font-size:50px;
 }
+@media (max-width:899px) 
+{
+    body{
+        background-color:red;
+    }
+    h1{
+        color:white;
+    }
+}
 @media (min-width:900px) and (max-width:949px) 
 {
     body{
@@ -46,3 +55,13 @@ body{
         color:black;
     }
 }
+@media (min-width:1151px)
+{
+    body{
+        background-color:green;
+    }
+    h1{
+        color:black;
+    }
+}
+
