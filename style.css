@@ -61,6 +61,7 @@ body {
   font-family: 'Lexend Deca', sans-serif; 
   font-size:15px;
   font-weight:400;
+  border:2px solid transparent;
 }
 .btn:hover{
   cursor:pointer;
